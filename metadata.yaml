@@ -1,0 +1,6 @@
+---
+homepage: https://dumbdata.co/
+documentation: https://github.com/jonah-onyejekwe/Google-Tag-Manager-Click-Identifier-Manager
+versions:
+  - sha: e74f232cc6b9a648e5e7b622bb7d8739b548f528
+    changeNotes: Initial release.
